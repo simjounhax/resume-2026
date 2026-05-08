@@ -70601,7 +70601,7 @@ A.uv.prototype={
 ak(){return new A.KK()}}
 A.KK.prototype={
 K(a){var s=this,r=null
-return A.ix(A.d([A.V6(r,A.aeS(A.lm(10),A.om(A.p4(A.afr("images/"+J.nO(s.a.c,s.d),new A.a94(),B.k3),B.fF,r,r,r),B.kI,r,280,r,r,1/0)),B.aB,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a95(s,a),r,r,r,!1,B.f7),B.wq,A.a3U(A.atq(new A.a96(s),J.cj(s.a.c),B.aG,new A.a97()),60,r)],t.F),B.aa,B.ab,B.am)},
+return A.ix(A.d([A.V6(r,A.aeS(A.lm(10),A.om(A.p4(A.afr("assets/images/"+J.nO(s.a.c,s.d),new A.a94(),B.k3),B.fF,r,r,r),B.kI,r,280,r,r,1/0)),B.aB,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a95(s,a),r,r,r,!1,B.f7),B.wq,A.a3U(A.atq(new A.a96(s),J.cj(s.a.c),B.aG,new A.a97()),60,r)],t.F),B.aa,B.ab,B.am)},
 a31(a,b){var s,r,q=null,p=A.F_(a,!0).c
 p.toString
 s=A.at6(a,p)
@@ -70622,7 +70622,7 @@ $2(a,b){return B.fD},
 $S:456}
 A.a96.prototype={
 $2(a,b){var s=null,r=this.a,q=r.d,p=A.lm(8),o=new A.bl(b===q?B.b4:B.v,2,B.A,-1)
-return A.V6(s,A.om(A.aeS(A.lm(6),A.p4(A.afr("images/"+J.nO(r.a.c,b),new A.a92(),B.xX),B.fF,s,s,s)),s,new A.e4(s,s,new A.cu(o,o,o,o),p,s,s,B.b9),s,s,s,80),B.aB,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a93(r,b),s,s,s,!1,B.f7)},
+return A.V6(s,A.om(A.aeS(A.lm(6),A.p4(A.afr("assets/images/"+J.nO(r.a.c,b),new A.a92(),B.xX),B.fF,s,s,s)),s,new A.e4(s,s,new A.cu(o,o,o,o),p,s,s,B.b9),s,s,s,80),B.aB,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a93(r,b),s,s,s,!1,B.f7)},
 $S:457}
 A.a93.prototype={
 $0(){var s=this.a
@@ -70645,7 +70645,7 @@ aA(){this.aU()
 this.d=this.a.d},
 K(a){var s=this,r=null,q=s.a.c,p=s.d
 p===$&&A.a()
-p=A.d([A.hr(new A.uD(A.afr("images/"+J.nO(q,p),new A.a8x(),B.k3),4,0.5,r),r,r),A.vQ(r,A.VO(r,r,B.C4,r,r,new A.a8y(a),r,r,r),r,r,r,8,8,r),A.vQ(r,A.hr(A.dK(""+(s.d+1)+" / "+J.cj(s.a.c),B.Mp),r,r),r,r,0,0,16,r)],t.F)
+p=A.d([A.hr(new A.uD(A.afr("assets/images/"+J.nO(q,p),new A.a8x(),B.k3),4,0.5,r),r,r),A.vQ(r,A.VO(r,r,B.C4,r,r,new A.a8y(a),r,r,r),r,r,r,8,8,r),A.vQ(r,A.hr(A.dK(""+(s.d+1)+" / "+J.cj(s.a.c),B.Mp),r,r),r,r,0,0,16,r)],t.F)
 if(s.d>0)p.push(A.vQ(0,A.hr(A.VO(r,r,B.BV,r,r,new A.a8z(s),r,r,r),r,r),r,r,8,r,0,r))
 if(s.d<J.cj(s.a.c)-1)p.push(A.vQ(0,A.hr(A.VO(r,r,B.BZ,r,r,new A.a8A(s),r,r,r),r,r),r,r,r,8,0,r))
 return new A.D8(B.D,B.Bj,A.pJ(B.cS,p,B.dV),r)}}
